@@ -1,0 +1,53 @@
+{
+	"tilesets":{
+		"items.tsx":1,
+		"terrains.tsx":11,
+		"npcs.tsx":24,
+		"enemys.tsx":37
+	},
+	"map":{
+		"101": {"tileset": "terrains.tsx", "id": "0"},
+		"102": {"tileset": "terrains.tsx", "id": "1"},
+		"103": {"tileset": "terrains.tsx", "id": "2"},
+		"104": {"tileset": "terrains.tsx", "id": "3"},
+		"105": {"tileset": "terrains.tsx", "id": "4"},
+		"301": {"tileset": "terrains.tsx", "id": "5"},
+		"302": {"tileset": "terrains.tsx", "id": "6"},
+		"303": {"tileset": "terrains.tsx", "id": "7"},
+		"201": {"tileset": "terrains.tsx", "id": "9"},
+		"202": {"tileset": "terrains.tsx", "id": "10"},
+		"203": {"tileset": "terrains.tsx", "id": "11"},
+		"204": {"tileset": "terrains.tsx", "id": "12"},
+	
+		"401": {"tileset": "enemys.tsx", "id": "0"},
+		"402": {"tileset": "enemys.tsx", "id": "1"},
+		"403": {"tileset": "enemys.tsx", "id": "2"},
+		"501": {"tileset": "enemys.tsx", "id": "3"},
+		"502": {"tileset": "enemys.tsx", "id": "3"},
+	
+		"801": {"tileset": "items.tsx", "id": "0"},
+		"802": {"tileset": "items.tsx", "id": "1"},
+		"803": {"tileset": "items.tsx", "id": "2"},
+		"1001": {"tileset": "items.tsx", "id": "3"},
+		"1002": {"tileset": "items.tsx", "id": "4"},
+		"1003": {"tileset": "items.tsx", "id": "5"},
+		"701" : {"tileset": "items.tsx", "id": "6"},
+		"702" : {"tileset": "items.tsx", "id": "7"},
+		"703" : {"tileset": "items.tsx", "id": "8"},
+		"704" : {"tileset": "items.tsx", "id": "9"},
+	
+		"601": {"tileset": "npcs.tsx", "id": "0"},
+		"602": {"tileset": "npcs.tsx", "id": "1"},
+		"603": {"tileset": "npcs.tsx", "id": "2"},
+		"604": {"tileset": "npcs.tsx", "id": "3"},
+		"605": {"tileset": "npcs.tsx", "id": "4"},
+		"606": {"tileset": "npcs.tsx", "id": "5"},
+		"607": {"tileset": "npcs.tsx", "id": "6"},
+		"608": {"tileset": "npcs.tsx", "id": "7"},
+		"609": {"tileset": "npcs.tsx", "id": "8"},
+		"610": {"tileset": "npcs.tsx", "id": "9"},
+		"611": {"tileset": "npcs.tsx", "id": "10"},
+		"612": {"tileset": "npcs.tsx", "id": "11"},
+		"613": {"tileset": "npcs.tsx", "id": "12"},
+	}
+}
